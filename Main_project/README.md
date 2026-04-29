@@ -165,7 +165,7 @@ sns.scatterplot(data= merged, x= 'count_percent', y= 'median_salary')
 ```
 
 ### Result
-![Alt text](https://github.com/BlagovestNB/Python-Project/blob/c1914a8a061eb1443fdfc8402f90b18b6a1ff6fb/Python/Main_project/Pictures/4.%20Optimal%20Skills.png)
+![Alt text](https://github.com/BlagovestNB/Python-Projects/blob/b3f91b9fe124b404eed76678ca5fdb0a1a9c2292/Main_project/Pictures/4.%20Optimal%20Skills.png)
 
 Insights:
 * The skill Oracle appears to have the highest median salary of nearly $97K, despite being less common in job postings. This suggests a high value placed on specialized database skills within the data analyst profession.

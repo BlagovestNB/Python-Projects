@@ -154,7 +154,7 @@ Here's the breakdown of the highest-paid & most in-demand skills for data analys
 
 ## 4. What are the most optimal skills to learn for Data Analysts?
 To identify the most optimal skills to learn ( the ones that are the highest paid and highest in demand) I calculated the percent of skill demand and the median salary of these skills. To easily identify which are the most optimal skills to learn.
-View my notebook with detailed steps here: [Optimal Skills](https://github.com/BlagovestNB/Python-Project/blob/main/Python/Main_project/4.%20Optimal%20Skills.ipynb)
+View my notebook with detailed steps here: [Optimal Skills](https://github.com/BlagovestNB/Python-Projects/blob/7d5ba7097e118b962d6ade9f646ba0f943797aed/Main_project/4.%20Optimal%20Skills.ipynb)
 ### Visualize Data
 
 ```python

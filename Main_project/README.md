@@ -81,7 +81,7 @@ for i, job in enumerate(job_title):
 ## 2. How are in-demand skills trending for Data Analysts?
 To find how skills are trending in 2023 for Data Analysts, I filtered data analyst positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data analysts by month, showing how popular skills were throughout 2023.
 
-View my notebook with detailed steps here: [Skills Trending](https://github.com/BlagovestNB/Python-Project/blob/main/Python/Main_project/2.%20Skills%20Trending.ipynb)
+View my notebook with detailed steps here: [Skills Trending](https://github.com/BlagovestNB/Python-Projects/blob/134d92da6324e84f5fd49f8dcb4d76d2bb2cd028/Main_project/2.%20Skills%20Trending.ipynb)
 
 Visualize Data
 ```python

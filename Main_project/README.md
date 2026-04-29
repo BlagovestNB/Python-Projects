@@ -125,7 +125,7 @@ ax = plt.gca()
 ax.xaxis.set_major_formatter(plt.FuncFormatter(lambda x, pos: f'${int(x/1000)}K'))
 ```
 ### Results
-![Alt text](https://github.com/BlagovestNB/Python-Project/blob/3bdde28220895930da0f2348c9fa6b4651230e53/Python/Main_project/Pictures/3.%20Salary%20Distributions.png)
+![Alt text](https://github.com/BlagovestNB/Python-Projects/blob/e40cef1c9e5949e386b11b1f06dcd35ed707e890/Main_project/Pictures/3.%20Salary%20Distributions.png)
 
 ### Insights:
 * There's a significant variation in salary ranges across different job titles. Senior Data Scientist positions tend to have the highest salary potential, with up to $600K, indicating the high value placed on advanced data skills and experience in the industry.

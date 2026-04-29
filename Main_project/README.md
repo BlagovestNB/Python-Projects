@@ -110,7 +110,7 @@ ax.yaxis.set_major_formatter((plt.FuncFormatter(lambda y, pos: f'{y*100:.2f}%'))
 ## 3. How well do jobs and skills pay for Data Analysts?
 To identify the highest-paying roles and skills, I only got jobs in the United States and looked at their median salary. But first I looked at the salary distributions of common data jobs like Data Scientist, Data Engineer, and Data Analyst, to get an idea of which jobs are paid the most.
 
-View my notebook with detailed steps here: [Salary Analysis](https://github.com/BlagovestNB/Python-Project/blob/main/Python/Main_project/3.%20Salaty%20Analysis.ipynb)
+View my notebook with detailed steps here: [Salary Analysis](https://github.com/BlagovestNB/Python-Projects/blob/730ebac33f44f7ac3874e2cf3b5b4eb9a7ac6b82/Main_project/3.%20Salaty%20Analysis.ipynb)
 
 Visualize Data
 ```python

@@ -101,8 +101,7 @@ ax.yaxis.set_major_formatter((plt.FuncFormatter(lambda y, pos: f'{y*100:.2f}%'))
 ```
 
 ### Results
-![Alt text](https://github.com/BlagovestNB/Python-Project/blob/3c2d192d2cc4af4bc42046380c0eff04bde38f88/Python/Main_project/Pictures/Skills%20Trending%20Final.png)
-
+![Alt text](https://github.com/BlagovestNB/Python-Projects/blob/4010a8fc9c3929de7e5b28d7454d65612a409566/Main_project/Pictures/Skills%20Trending%20Final.png)
 ### Insights:
 * SQL remains the most consistently demanded skill throughout the year, although it shows a gradual decrease in demand.
 * Excel experienced a significant increase in demand starting around September, surpassing both Python and Tableau by the end of the year.

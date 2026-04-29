@@ -192,7 +192,7 @@ sns.scatterplot(
 plt.show()
 ```
 Result
-![Alt text](https://github.com/BlagovestNB/Python-Project/blob/b6445579dea013d9ffc5aa950d020051a6d5e286/Python/Main_project/Pictures/4.1%20Optimal%20Skills.png)
+![Alt text](https://github.com/BlagovestNB/Python-Projects/blob/b1d60086b01365048e58ec7bf8df16a948977255/Main_project/Pictures/4.1%20Optimal%20Skills.png)
 
 Insights:
 * The scatter plot shows that most of the programming skills (colored blue) tend to cluster at higher salary levels compared to other categories, indicating that programming expertise might offer greater salary benefits within the data analytics field.

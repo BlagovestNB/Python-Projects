@@ -71,7 +71,7 @@ for i, job in enumerate(job_title):
     ) 
 ```
 ### Result
-![Alt text]([https://github.com/BlagovestNB/Python-Project/blob/3c2d192d2cc4af4bc42046380c0eff04bde38f88/Python/Main_project/Pictures/output.png](https://github.com/BlagovestNB/Python-Projects/blob/8c8a0e9c272f5613c617f3a54a4e467cc3c59dd2/Main_project/Pictures/output.png))
+![Alt text](https://github.com/BlagovestNB/Python-Projects/blob/749b96b87100b1d64727be8586ebf31b346a3ff1/Main_project/Pictures/output.png)
 
 ### Insights:
 * SQL is the most requested skill for Data Analysts and Data Scientists, with it in over half the job postings for both roles. For Data Engineers, Python is the most sought-after skill, appearing in 68% of job postings.

@@ -2,7 +2,7 @@
 
 The project analyzes the data job market, focusing on data analyst roles. This project was created to practice my programming skills using the libraries pandas, matplotlib, and seaborn. The project is divided into top-paying and in-demand skills to help identify optimal job opportunities for data analysts.
 
-The data comes from [Luke Barousse`s Python Course](https://github.com/lukebarousse/Python_Data_Analytics_Course which provides a foundation for my analysis, containing detailed information on job titles, salaries, locations, and essential skills. Through a series of Python scripts, I explored key questions such as the most demanded skills, salary trends, and the intersection of demand and salary in data analytics.
+The data comes from [Luke Barousse`s Python Course](https://github.com/lukebarousse/Python_Data_Analytics_Course) which provides a foundation for my analysis, containing detailed information on job titles, salaries, locations, and essential skills. Through a series of Python scripts, I explored key questions such as the most demanded skills, salary trends, and the intersection of demand and salary in data analytics.
 
 ## Main Questions
 
